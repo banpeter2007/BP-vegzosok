@@ -1,0 +1,357 @@
+nem	nev	evfolyam	oszatly	szak
+L	Mátrai Georgina	2005	B	Vasútüzemgépész
+L	Rakóczki Maurícia	2004	A	Gépjármûvillamossági szerelõ
+F	Roklicz Odisszeusz	2005	A	Jármûlakatos
+L	Asztalos Viola	2004	C	Gépjármûvillamossági szerelõ
+L	Schiffer Mercédesz	2005	A	Jármûlakatos
+F	Kupti Nikodémusz	2005	B	Jármûlakatos
+F	Pámer Dalton	2006	A	Kötöttpályás szerelõ
+L	Pala Eleonóra	2004	C	Vasútüzemgépész
+L	Felházi Margó	2005	C	Vasútüzemgépész
+F	Ferenc Borisz	2005	B	Vasútüzemgépész
+F	Turai Tóbiás	2004	A	Kötöttpályás szerelõ
+F	Borbély Lukács	2004	B	Vasútüzemgépész
+L	Makranczi Karolina	2006	C	Kötöttpályás szerelõ
+L	Virecskó Felícia	2006	C	Jármûlakatos
+L	Teper Boriska	2005	B	Vasútüzemgépész
+F	Petró Fortunát	2006	C	Gépjármûvillamossági szerelõ
+F	Kõmíves Katapán	2005	B	Gépjármûvillamossági szerelõ
+L	Azari Rozalinda	2006	C	Jármûlakatos
+L	Jermega Verbéna	2006	B	Gépjármûvillamossági szerelõ
+F	Berniczki Donald	2004	C	Vasútüzemgépész
+L	Zarkovics Eliána	2006	C	Gépjármûvillamossági szerelõ
+L	Felházi Szandra	2004	A	Gépjármûvillamossági szerelõ
+F	Csekei Bátor	2004	B	Gépjármûvillamossági szerelõ
+L	Bela Dezideráta	2004	C	Vasútüzemgépész
+F	Najdusonka Boáz	2005	A	Jármûlakatos
+L	Ugocsányi Hilda	2004	C	Vasútüzemgépész
+L	Pozsonyi Barbara	2004	A	Gépjármûvillamossági szerelõ
+F	Tolcsvai Gyõzõ	2004	A	Gépjármûvillamossági szerelõ
+L	Marjanszki Polett	2005	C	Kötöttpályás szerelõ
+L	Földi Amarilla	2005	A	Jármûlakatos
+L	Palovtsik Cipriána	2004	A	Gépjármûvillamossági szerelõ
+L	Bencze Barbara	2006	C	Vasútüzemgépész
+F	Ernest Attila	2005	B	Kötöttpályás szerelõ
+L	Sajgó Demetria	2004	B	Kötöttpályás szerelõ
+F	Sonuti Edizon	2004	B	Gépjármûvillamossági szerelõ
+F	Dosnyák Arétász	2004	B	Gépjármûvillamossági szerelõ
+L	Pozsonyi Márta	2005	A	Vasútüzemgépész
+L	Báthori Ilka	2005	A	Vasútüzemgépész
+L	Gombos Ivett	2006	C	Gépjármûvillamossági szerelõ
+L	Ardai Jakobina	2004	A	Kötöttpályás szerelõ
+F	Virág Kristóf	2006	C	Vasútüzemgépész
+F	Román Trisztán	2005	C	Kötöttpályás szerelõ
+F	Veres Osszián	2004	A	Vasútüzemgépész
+L	Izsépi Szalvia	2006	C	Jármûlakatos
+L	Hochrek Amarillisz	2006	B	Jármûlakatos
+F	Vojcsik Valentin	2005	B	Vasútüzemgépész
+F	Ptacskovszki Varsány	2005	A	Gépjármûvillamossági szerelõ
+F	Peremiczky Osszián	2005	B	Vasútüzemgépész
+F	Ambrus Gálos Vendel	2004	A	Gépjármûvillamossági szerelõ
+F	Dorsánszki Abelárd	2004	C	Gépjármûvillamossági szerelõ
+L	Kállai Anasztázia	2004	C	Vasútüzemgépész
+L	Vofenszki Indira	2005	B	Kötöttpályás szerelõ
+F	Szalma Ronald	2006	A	Vasútüzemgépész
+L	Szlimáti Dorsánszki Hóvirág Delila	2006	A	Vasútüzemgépész
+F	Világi Mike Zekõ	2004	B	Jármûlakatos
+L	Majer Szonóra	2005	C	Vasútüzemgépész
+F	Cseki Kolumbán	2006	B	Jármûlakatos
+L	Barkó Mimóza	2006	B	Vasútüzemgépész
+F	Téglás Ince	2005	B	Vasútüzemgépész
+L	Pécsi Hófehérke	2004	C	Kötöttpályás szerelõ
+L	Buzinszkai Noémi	2004	C	Vasútüzemgépész
+L	Vofenszki Ágota	2006	C	Vasútüzemgépész
+F	Rozgonyi Hugó	2006	A	Vasútüzemgépész
+L	Zacskovics Mónika	2004	B	Vasútüzemgépész
+L	Mihalovecz Csendike	2004	B	Vasútüzemgépész
+F	Sugár Kurszán	2005	C	Vasútüzemgépész
+L	Csákó Brigitta	2006	A	Gépjármûvillamossági szerelõ
+L	Szentpéteri Celerina	2004	B	Gépjármûvillamossági szerelõ
+L	Hamvai Johanna	2006	B	Vasútüzemgépész
+L	Polyák Viola	2004	B	Jármûlakatos
+L	Zemianka Lídia	2004	B	Vasútüzemgépész
+F	Révész Ivor	2006	C	Vasútüzemgépész
+L	Erdélyi Jella	2006	C	Jármûlakatos
+L	Radványi Oszvalda	2004	A	Gépjármûvillamossági szerelõ
+L	Bacsó Mercédesz	2004	C	Vasútüzemgépész
+F	Viltsek Imbert	2004	A	Kötöttpályás szerelõ
+F	Migrocsi Özséb	2005	A	Jármûlakatos
+F	Jelenik Koppány	2004	B	Gépjármûvillamossági szerelõ
+F	Sável Richárd	2004	A	Gépjármûvillamossági szerelõ
+L	Ptacskovszki Füzike	2005	B	Vasútüzemgépész
+L	Sribilovics Bodzás Izidóra	2005	B	Jármûlakatos
+L	Abaházy Fehérke	2005	C	Jármûlakatos
+L	Prekob Ambrózia Cipriána	2004	A	Gépjármûvillamossági szerelõ
+L	Vaskovics Édua	2006	C	Kötöttpályás szerelõ
+L	Szatmári Tímea	2005	A	Kötöttpályás szerelõ
+L	Dobozi Koletta	2004	C	Jármûlakatos
+F	Szluka Livják Tarcal	2006	C	Vasútüzemgépész
+L	Kovács Ilona Karméla	2006	B	Vasútüzemgépész
+L	Bóni Gerle	2004	C	Jármûlakatos
+F	Egri Makkai Domicián	2005	B	Jármûlakatos
+L	Szelikán Matild	2006	B	Vasútüzemgépész
+L	Jónás Tália	2006	C	Vasútüzemgépész
+F	Rézmûves Barna	2005	A	Jármûlakatos
+F	Hibják Rudolf	2006	A	Vasútüzemgépész
+F	Czentnár Komáromi Tarzíciusz	2005	A	Kötöttpályás szerelõ
+F	Szkiba Oszvald Loránd	2006	B	Jármûlakatos
+L	Kantnári Mirandolína	2004	B	Vasútüzemgépész
+F	Szitsik Gaszton	2005	B	Vasútüzemgépész
+F	Kruszki Ralf	2004	B	Gépjármûvillamossági szerelõ
+L	Huhner Rufina	2005	C	Gépjármûvillamossági szerelõ
+L	Barkóczki Melina	2005	C	Gépjármûvillamossági szerelõ
+L	Dorsánszki Eudoxia	2006	C	Kötöttpályás szerelõ
+L	Péter Anita	2004	B	Vasútüzemgépész
+F	Földi Mendel	2004	B	Gépjármûvillamossági szerelõ
+F	Kohári Elizeus	2004	C	Gépjármûvillamossági szerelõ
+F	Kállai Edizon	2005	A	Vasútüzemgépész
+F	Ficza Dagomér	2005	B	Jármûlakatos
+F	Pulánszki Detre	2004	C	Gépjármûvillamossági szerelõ
+L	Mátrai Belinda	2006	C	Gépjármûvillamossági szerelõ
+F	Galambi Zekõ	2006	A	Vasútüzemgépész
+L	Göncze Filler Edina	2005	B	Jármûlakatos
+L	Kaczur Ignácia	2005	C	Vasútüzemgépész
+L	Bénó Palóma	2006	C	Gépjármûvillamossági szerelõ
+L	Solcz Rozália	2004	A	Vasútüzemgépész
+L	Lekvanics Melánia	2004	C	Gépjármûvillamossági szerelõ
+L	Vitak Áldáska	2005	C	Jármûlakatos
+L	Sotkó Krisztina	2004	B	Kötöttpályás szerelõ
+L	Rosenthál Zsuzsanna	2004	B	Kötöttpályás szerelõ
+F	Birke Márkus	2004	A	Kötöttpályás szerelõ
+F	Nemes Brútusz	2005	A	Vasútüzemgépész
+L	Lengyel Galamb	2005	C	Vasútüzemgépész
+F	Jambrakovics Damján	2004	A	Jármûlakatos
+L	Göttli Olimpia	2004	C	Vasútüzemgépész
+F	HusztiIglár Palmer	2005	A	Jármûlakatos
+L	Zilai Nadin	2006	C	Vasútüzemgépész
+F	Bizub Bocsárd	2006	B	Jármûlakatos
+F	Bokréta Leó	2006	A	Gépjármûvillamossági szerelõ
+F	Kállai Norbert	2004	C	Kötöttpályás szerelõ
+L	Palás Natasa	2004	C	Vasútüzemgépész
+F	Palatics Polidor	2004	B	Vasútüzemgépész
+F	Berniczki Armand	2006	B	Jármûlakatos
+F	Váczi Patony	2005	B	Vasútüzemgépész
+F	Bagoly Lúciusz Béni	2004	B	Gépjármûvillamossági szerelõ
+F	Gábor Soma	2005	A	Gépjármûvillamossági szerelõ
+L	Gömöri Szellõke	2004	B	Vasútüzemgépész
+L	Trembeczki Edina	2004	A	Jármûlakatos
+L	Szigeti Hedvig	2006	C	Vasútüzemgépész
+F	Stiolinszki Armand	2006	A	Vasútüzemgépész
+F	Kostyó Achilles	2004	A	Jármûlakatos
+F	Bajzák Szalvátor	2005	A	Jármûlakatos
+L	Pauliczki Hilária	2006	A	Kötöttpályás szerelõ
+F	Michálóczi Eutim	2004	B	Jármûlakatos
+L	Bagosi Lolita	2006	A	Jármûlakatos
+L	Csipke Melánia	2006	A	Kötöttpályás szerelõ
+L	Sándor Ruszalka	2005	C	Vasútüzemgépész
+L	Fischer Lavínia	2005	A	Jármûlakatos
+F	Lakó Zsombor	2006	B	Vasútüzemgépész
+F	Erdõsi Lévi	2005	B	Vasútüzemgépész
+F	Üveges Ámos	2005	C	Vasútüzemgépész
+L	Burecski Teodóra	2005	C	Kötöttpályás szerelõ
+L	Komáromi Elma	2004	C	Kötöttpályás szerelõ
+F	Ardon Zakariás	2006	A	Vasútüzemgépész
+F	Hipik Sámson	2005	C	Jármûlakatos
+L	Terniczki Marita	2005	A	Vasútüzemgépész
+F	Brizó Adolár	2004	A	Gépjármûvillamossági szerelõ
+L	Beloinszki Alexandra	2004	C	Vasútüzemgépész
+L	Michalovszki Orsika	2005	A	Kötöttpályás szerelõ
+L	Kõvágó Rikarda	2005	A	Vasútüzemgépész
+F	Komjáthi Káin	2006	A	Kötöttpályás szerelõ
+F	Biczki Jukundusz Jázon	2006	C	Vasútüzemgépész
+F	Csontos Solt	2005	B	Jármûlakatos
+L	Huszina Leonarda	2005	C	Jármûlakatos
+L	Margittay Horácia	2006	C	Vasútüzemgépész
+L	Szentléleki Ágnes	2004	C	Jármûlakatos
+L	Kéményes Rozvita	2004	A	Jármûlakatos
+L	Bukanics Kámea	2004	B	Gépjármûvillamossági szerelõ
+L	Kerhács Hilária	2004	B	Vasútüzemgépész
+L	Bukanics Pintyõke Sába	2004	B	Kötöttpályás szerelõ
+F	Bényei Razmus	2004	A	Jármûlakatos
+F	Závoy Ágoston	2006	B	Kötöttpályás szerelõ
+L	Fischer Jusztina	2005	B	Kötöttpályás szerelõ
+L	Budai Nóra	2004	A	Jármûlakatos
+F	Bela Donald	2006	B	Vasútüzemgépész
+L	Berger Eliza Fanni	2004	A	Jármûlakatos
+L	Derecskei Margita	2006	A	Kötöttpályás szerelõ
+F	Kõvári Radiszló	2006	B	Vasútüzemgépész
+L	Szakmári Darinka	2005	C	Jármûlakatos
+L	Selyesztáli Kámea	2006	B	Jármûlakatos
+F	Konti Alárd	2006	B	Vasútüzemgépész
+L	Bakos Vulfia	2005	B	Kötöttpályás szerelõ
+L	Somogyi Teodózia	2006	C	Vasútüzemgépész
+L	Tóth Marinella	2006	C	Vasútüzemgépész
+L	Keisler Ariadné	2004	B	Vasútüzemgépész
+L	Terniczki Melánia	2006	B	Vasútüzemgépész
+F	Ptacskovszki Arvid Miron	2004	A	Jármûlakatos
+L	Asztalos Vilma	2005	B	Vasútüzemgépész
+L	Huhner Enikõ	2004	B	Kötöttpályás szerelõ
+F	Dezsõ Titán	2004	B	Jármûlakatos
+F	Jarozovics Dormán	2004	A	Kötöttpályás szerelõ
+F	Kecskés Pelágiusz	2006	A	Vasútüzemgépész
+L	Palinszki Karolina	2005	C	Kötöttpályás szerelõ
+F	Benkõ Kármán	2006	B	Jármûlakatos
+L	Török Timótea	2004	A	Kötöttpályás szerelõ
+L	Halász Mabella	2004	C	Gépjármûvillamossági szerelõ
+F	Szilvási Gellén	2004	A	Vasútüzemgépész
+F	Vidakovics Godó Csépán	2006	A	Kötöttpályás szerelõ
+L	Helfi Szegedi Döníz	2006	A	Vasútüzemgépész
+F	Balpataki Sós Lél	2004	B	Vasútüzemgépész
+L	Bernád Babett	2005	B	Vasútüzemgépész
+L	Horgos Szimóna	2006	A	Jármûlakatos
+L	Radnai Mirandolína	2004	A	Jármûlakatos
+L	Simai Atala Gemella	2004	A	Jármûlakatos
+F	Szenes Félix	2004	C	Vasútüzemgépész
+F	Orgovszki Krisztián	2004	A	Kötöttpályás szerelõ
+L	Bánfalvi Niké	2005	C	Kötöttpályás szerelõ
+F	Mihalovics Etele Nátán	2004	C	Vasútüzemgépész
+L	Bodák Kató	2004	A	Vasútüzemgépész
+L	Kosoczki Nina	2004	B	Gépjármûvillamossági szerelõ
+L	Kerülõ Éda	2004	C	Vasútüzemgépész
+F	Kállai Vitális	2005	C	Jármûlakatos
+L	Borisz Gréta	2006	A	Vasútüzemgépész
+L	Szelikán Genovéva	2005	C	Jármûlakatos
+L	Csitári Sonkos Auguszta	2004	A	Jármûlakatos
+L	Sajgó Dalma	2005	A	Vasútüzemgépész
+L	Najdusonka Nyeste Szofrónia	2005	C	Vasútüzemgépész
+F	Bakos Agaton	2005	A	Kötöttpályás szerelõ
+F	Urbán Absa	2005	C	Jármûlakatos
+F	Szomi Györk	2006	A	Jármûlakatos
+F	Hohol Nesztor	2005	B	Vasútüzemgépész
+L	Kohári Szonja	2006	B	Vasútüzemgépész
+F	Bukóczki Ilárion	2006	B	Jármûlakatos
+L	Bagosi Györgyi	2005	A	Vasútüzemgépész
+F	Gózs Jusztusz	2004	B	Jármûlakatos
+L	Najduk Zina	2004	A	Jármûlakatos
+L	Kecskeméti Cseh Uránia	2006	A	Vasútüzemgépész
+L	Szilágyi Kámea	2005	B	Vasútüzemgépész
+L	Baskai Elma	2005	B	Vasútüzemgépész
+L	Fercsák Beáta	2004	A	Vasútüzemgépész
+L	Holykó Enciána	2006	B	Jármûlakatos
+L	Gáspár Nilla	2005	A	Jármûlakatos
+L	Bernád Szirén	2004	A	Kötöttpályás szerelõ
+F	Kecskeméti Rókus	2006	B	Vasútüzemgépész
+F	Páhi Artemon Arvid	2006	C	Kötöttpályás szerelõ
+L	Marosi Nikodémia	2005	A	Vasútüzemgépész
+L	Horkai Polixénia	2006	C	Kötöttpályás szerelõ
+F	Bubri Illés	2005	C	Kötöttpályás szerelõ
+L	Ronyátki Modeszta	2006	A	Kötöttpályás szerelõ
+L	Oldal Eliána	2006	C	Jármûlakatos
+L	Bujdos Jurcsányi Urzulina	2006	C	Gépjármûvillamossági szerelõ
+F	Bajos Örs	2004	C	Kötöttpályás szerelõ
+F	Göttli Regõ	2004	A	Vasútüzemgépész
+L	Jermega Ilona	2005	A	Gépjármûvillamossági szerelõ
+F	Berniczki Baján	2004	A	Kötöttpályás szerelõ
+L	Hosovics Gizella Szofrónia	2004	A	Kötöttpályás szerelõ
+F	Suhajda Tézeusz	2004	B	Vasútüzemgépész
+F	Gályi Szecsõ	2006	C	Gépjármûvillamossági szerelõ
+F	Béres Szolón	2006	C	Vasútüzemgépész
+L	Batta Róza	2005	B	Vasútüzemgépész
+L	Gaszparivics Jozefa	2004	C	Vasútüzemgépész
+L	Veleczki Semsei Marianna	2006	A	Vasútüzemgépész
+L	Demeter Eszter	2004	B	Vasútüzemgépész
+L	Arany Peónia	2005	C	Gépjármûvillamossági szerelõ
+L	Simkó Neszta Franciska	2006	B	Jármûlakatos
+L	Dankó Szendike Belinda	2004	C	Gépjármûvillamossági szerelõ
+L	Kerhács Leona	2006	A	Kötöttpályás szerelõ
+L	Novák Nefelejcs	2006	C	Vasútüzemgépész
+F	Kondás Ali Móric	2005	C	Vasútüzemgépész
+F	Nagymihályi Keled	2004	C	Kötöttpályás szerelõ
+L	Bénó Angéla	2004	C	Vasútüzemgépész
+F	Radványi Verner	2005	A	Vasútüzemgépész
+L	Dávid Zseni	2004	B	Vasútüzemgépész
+L	Méhes Szitsik Alfonza	2004	B	Kötöttpályás szerelõ
+L	Pala Szultána	2004	A	Vasútüzemgépész
+L	Sloszárik Zseni	2004	C	Jármûlakatos
+L	Sarkadi Natália	2006	C	Vasútüzemgépész
+F	Barna Zalán	2005	B	Jármûlakatos
+F	Kiss Titán	2004	B	Vasútüzemgépész
+L	Gabura Melitta	2006	B	Jármûlakatos
+L	Orsóczki Amarilla	2004	A	Jármûlakatos
+L	Magerusz Cicelle	2005	C	Gépjármûvillamossági szerelõ
+L	Simon Linda Témisz	2004	C	Gépjármûvillamossági szerelõ
+F	Huhner Bárány Arisztid	2004	B	Gépjármûvillamossági szerelõ
+F	Nyiri Damján	2006	C	Gépjármûvillamossági szerelõ
+L	Patre Honória	2006	A	Vasútüzemgépész
+L	Nagymihályi Harmatka	2004	A	Jármûlakatos
+L	Konti Célia Zsanna	2005	C	Vasútüzemgépész
+F	Vinnai Szelim	2006	C	Kötöttpályás szerelõ
+F	Meskár Oszkár	2005	A	Vasútüzemgépész
+L	Szilas Neszta	2006	C	Jármûlakatos
+F	Mátrai Firmin	2005	C	Vasútüzemgépész
+F	Horkai Bozsidár	2004	A	Jármûlakatos
+L	Raklovicz Alberta	2005	A	Gépjármûvillamossági szerelõ
+L	Török Antigoné	2006	A	Jármûlakatos
+L	Koltai Zója	2005	B	Vasútüzemgépész
+L	Venczel Aura	2004	A	Gépjármûvillamossági szerelõ
+F	Egri Kozma	2006	B	Vasútüzemgépész
+L	Strafedli Klaudetta	2004	A	Kötöttpályás szerelõ
+L	Vilinszki Oszvalda	2004	B	Jármûlakatos
+L	Balsai Rozita Huberta	2004	B	Jármûlakatos
+L	Bordás Ria	2006	B	Vasútüzemgépész
+F	Malák Csatád	2006	B	Vasútüzemgépész
+L	Bajos Nelli	2006	A	Jármûlakatos
+F	Matolcsi Rajmund	2006	C	Jármûlakatos
+L	Bernáth Ilona	2006	B	Kötöttpályás szerelõ
+L	Helfi Emerita	2004	A	Gépjármûvillamossági szerelõ
+F	Dorsánszki Pellegrin	2006	A	Kötöttpályás szerelõ
+F	Borovszki Bedõ	2006	A	Jármûlakatos
+F	Stiber Edmond	2004	C	Vasútüzemgépész
+F	Hotykai Alajos Gábor	2004	C	Jármûlakatos
+L	Musela Jella	2004	A	Jármûlakatos
+L	Pillik Lejla Amábel	2005	A	Vasútüzemgépész
+L	Mándoki Fédra Malvin	2006	C	Vasútüzemgépész
+F	Rigler Valdemár	2005	B	Jármûlakatos
+F	Vay Eugén	2004	C	Jármûlakatos
+L	Gál Hermina	2005	C	Jármûlakatos
+F	Gályi Buda	2004	C	Vasútüzemgépész
+F	Világi Dezsér	2004	C	Vasútüzemgépész
+L	Kalinány Gunda	2006	C	Kötöttpályás szerelõ
+L	Dessewffy Margita Seherezádé	2004	A	Gépjármûvillamossági szerelõ
+L	Gregovszki Dominika	2006	C	Jármûlakatos
+F	Voktel Aldán	2005	C	Vasútüzemgépész
+F	Villám Atád	2005	B	Kötöttpályás szerelõ
+L	Czigler Szuklina Katalin	2005	B	Kötöttpályás szerelõ
+F	Jurcsányi Nemere	2005	C	Vasútüzemgépész
+L	Györkei Mályva	2004	B	Kötöttpályás szerelõ
+F	Orosz Izsó	2005	C	Vasútüzemgépész
+L	Kardos Milla	2006	B	Kötöttpályás szerelõ
+L	Brager Leontina	2006	A	Vasútüzemgépész
+F	Kiszely Razmus	2006	C	Jármûlakatos
+F	Sós Szilveszter	2006	B	Vasútüzemgépész
+F	Himesi Szalviusz	2006	C	Gépjármûvillamossági szerelõ
+L	Horkay Madléna Abélia	2006	A	Vasútüzemgépész
+L	Mitrik Kamélia	2005	B	Vasútüzemgépész
+L	Lengyel Leonarda	2005	A	Kötöttpályás szerelõ
+F	Borkuti Csató	2006	C	Jármûlakatos
+F	Aszoj Kenese	2004	C	Vasútüzemgépész
+F	Madaras Ivó	2004	C	Kötöttpályás szerelõ
+F	Kudás Apollinár	2004	C	Vasútüzemgépész
+F	Vasovszki Tardos	2004	B	Gépjármûvillamossági szerelõ
+F	Járási János	2006	A	Jármûlakatos
+F	Orlovics Ilmár	2006	C	Gépjármûvillamossági szerelõ
+F	Sinyei Szabolcs	2005	A	Gépjármûvillamossági szerelõ
+L	Bognur Míra	2006	A	Kötöttpályás szerelõ
+L	Szkiba Gitta	2004	A	Gépjármûvillamossági szerelõ
+F	Mahalek Szebasztian	2004	B	Vasútüzemgépész
+F	Gernács Baranyi Honóriusz	2005	B	Gépjármûvillamossági szerelõ
+F	Vicsonka Nesztor	2004	C	Gépjármûvillamossági szerelõ
+L	Nemessányi Klaudia	2004	A	Kötöttpályás szerelõ
+F	Martsek Fóris	2006	A	Vasútüzemgépész
+F	Lipeczki Alex	2004	A	Vasútüzemgépész
+F	Boldis Birkó Hermész	2006	C	Vasútüzemgépész
+F	Kusznics Bod	2004	C	Kötöttpályás szerelõ
+L	Jászay Léna	2006	B	Vasútüzemgépész
+L	Kõvágó Szimóna	2006	B	Gépjármûvillamossági szerelõ
+L	Téglás Celina	2004	A	Vasútüzemgépész
+L	Henrik Pesta Szamanta	2004	B	Jármûlakatos
+L	Csulikány Roberta	2005	B	Vasútüzemgépész
+F	Haraszti Alex	2006	B	Gépjármûvillamossági szerelõ
+L	Illés Helka	2004	A	Vasútüzemgépész
+F	Hudák Rolf	2005	C	Gépjármûvillamossági szerelõ
+L	Hudák Kíra	2004	B	Vasútüzemgépész
+L	Török Maja	2006	A	Vasútüzemgépész
+L	Vaskovics Magdaléna	2004	B	Jármûlakatos
+F	Francovszki Dominik	2004	B	Kötöttpályás szerelõ
+F	Herczeg Rajnald	2004	C	Jármûlakatos
+L	Gulyás Vanda	2004	A	Vasútüzemgépész
